@@ -2,4 +2,9 @@ Hellow world!!!
  hbxbkh
 hhdhiidid
 jjjvjo
+ok
+<<<<<<< HEAD
 bug 5 another
+=======
+bug5 hhh
+>>>>>>> bug5
