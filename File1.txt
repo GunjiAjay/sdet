@@ -1,8 +1,5 @@
 Hellow world!!!
- hbxbkh
-hhdhiidid
-jjjvjo
-ok
+
 <<<<<<< HEAD
 bug 5 another
 =======
