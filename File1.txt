@@ -1,7 +1,7 @@
 Hellow world!!!
 
-<<<<<<< HEAD
+
 bug 5 another
-=======
-bug5 hhh
->>>>>>> bug5
+
+bug5.
+
