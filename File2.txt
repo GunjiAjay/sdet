@@ -1,9 +1,9 @@
 Where are you?
-<<<<<<< HEAD
 is there any work going on
-=======
+
 I am at ongole -bug4
 I am at vijayawada - changed by teammate
 
 what are you doing?
->>>>>>> e1fcc36 (aking work doing)
+nothing.why you are asking quesion?
+
