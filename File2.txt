@@ -2,12 +2,12 @@ Where are you?
 is there any work going on
 
 I am at ongole -bug4
-I am at vijayawada - changed by teammate
+I am at vijayawada - changed by teammate.
 
 what are you doing?
-<<<<<<< HEAD
+
 nothing.why you are asking quesion?
-=======
+
 nothing.
->>>>>>> a648630 (giving the answer for work question)
+
 
